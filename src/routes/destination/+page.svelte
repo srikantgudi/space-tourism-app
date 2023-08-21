@@ -5,7 +5,7 @@
   let curDest = destinations[0];
 </script>
 
-<main class="bg-fixed bg-cover md:bg-[url(/assets/technology/background-destination-desktop.jpg)] bg-[url(/assets/technology/background-destination-mobile.jpg)]">
+<main>
   <section class="md:mx-[10rem] mx-auto">
     <!-- <div class="flex md:flex-row flex-col md:mt-[10rem] mt-[2rem] md:justify-between text-2xl md:mr-[40rem]"> -->
     <div class="md:mt-[10rem] mt-[2rem] flex md:items-center flex-col md:flex-row">
